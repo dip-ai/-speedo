@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811613092907",
+    "project_id": "signin-aa4f3",
+    "storage_bucket": "signin-aa4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811613092907:android:db4e4219f079d37ca9fe6e",
+        "android_client_info": {
+          "package_name": "com.example.speedo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdev1GF5hMAcOP-PmJhwQ7fa8PEXPILuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
